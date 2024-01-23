@@ -4,7 +4,7 @@
 This is an interactive iOS app designed to introduce the student. It features the ability to input personal information such as name, school, and academic year. The app includes interactive elements like steppers to indicate the number of pets, a switch to express the desire for more pets, and a button to toggle between light and dark modes.
 
 ## App Walk-through
-
+https://imgur.com/a/GMjZDjp.gif
 
 ## Required Features
 
